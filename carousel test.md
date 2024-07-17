@@ -1,19 +1,5 @@
-<style>
-img[alt~="top-right"] {
-  position: absolute;
-  top: 30px;
-  right: 30px;
-}
-</style>
-
-<style>
-img[alt~="bottom-right"] {
-  position: absolute;
-  top: 400px;
-  right: 0px;
-}
-</style>
-
-
-![top-right](image23.png)
-![bottom-right](image24.png)
+<details>
+  <summary>The title of the image group</summary>
+  <img src="image23.png" alt="image-description"/>
+  <img src="image24.png" alt="image-description"/>
+</details>
