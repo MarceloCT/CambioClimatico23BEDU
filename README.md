@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Adrián Marcelo Castillo Torres
-- Adela Camara
+- Adelita Chairez Camara
 - Fernando Llamas
 - Isaac
 
