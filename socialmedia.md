@@ -51,7 +51,7 @@ No subestimes el poder de tus acciones.  Cada pequeña decisión cuenta y, junto
 Ayudame a generar un artículo en formato de carrusel de instagram con un tono amigable y en forma de guía en el que podamos poner acciones que puede tomar la persona mexicana promedio para ayudar a tomar acción contra el cambio climático. Por favor utiliza emojis para que se vea de manera más ad hoc a Instagram.
 ```
 
-### Resultado
+### Resultado (Dar click en cada título)
 <details>
   <summary>¡Tu Guía Personal para Combatir el Cambio Climático desde Casa!</summary>
   <img src="PostTitulo.jpg" alt="image-description"/>
