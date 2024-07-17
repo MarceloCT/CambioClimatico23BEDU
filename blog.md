@@ -78,7 +78,9 @@ El cambio climático es un problema global, pero todos podemos ser parte de la s
 
 El cambio climático es un desafío urgente, pero no debemos perder la esperanza. Al informarnos, tomar acción y apoyar a quienes nos alimentan, podemos construir un futuro más resiliente y sostenible para la agricultura mexicana. El futuro de nuestros campos está en nuestras manos, y cada pequeña acción cuenta.
 
-**¿Qué opinas? ¡Déjaos tus comentarios aquí!**
+**¿Qué opinas? ¡Déjanos tus comentarios aquí!**
+<html>
 <textarea id="freeform" name="freeform" rows="4" cols="50">
 Enter text here...
 </textarea>
+</html>
