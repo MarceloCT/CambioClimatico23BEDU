@@ -10,8 +10,11 @@
 
 Referencias:
 > Secretaría de Agricultura y Desarrollo Rural (SADER) (2023). Plan Nacional de Adaptación al Cambio Climático en el Sector Agropecuario y Pesquero.
+
 > Instituto Nacional de Estadística y Geografía (INEGI) (2022). Estadísticas Agrícolas.
+
 > Comisión Económica para América Latina y el Caribe (CEPAL) (2021). La Economía del Cambio Climático en México.
+
 > Intergovernmental Panel on Climate Change (IPCC) (2021). Climate Change 2021: The Physical Science Basis.
 
 ## Versión Preliminar
