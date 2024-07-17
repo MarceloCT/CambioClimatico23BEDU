@@ -10,7 +10,9 @@
 
 Referencias:
 > https://www.instagram.com/zerowastehome/
+
 > https://twitter.com/ClimateReality
+
 > https://www.pinterest.com/search/pins/?q=sustainable%20living
 
 ## Versión Preliminar
