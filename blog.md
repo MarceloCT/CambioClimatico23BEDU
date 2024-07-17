@@ -1,3 +1,34 @@
+# Blog Post - Cambio Climático en la Agricultura Mexicana"
+
+## Exploración previa
+
+### Puntos Clave a contemplar para el contenido:
+- Impacto de la temperatura en la cosecha.
+- Cambio en la temporada de lluvias en el campo.
+- Tiempo ideal para cosechar el producto.
+- Impacto sobre los agricultores.
+
+Referencias:
+> Secretaría de Agricultura y Desarrollo Rural. (2015). El cambio climático afecta al campo ¿cómo enfrentarlo?. Recuperado de gob.mx (Gob.mx).
+> Universidad Nacional Autónoma de México (UNAM). Cambio Climático en México. Recuperado de cambioclimatico.unam.mx (Cambio Climático en México).
+> Instituto de Recursos Mundiales (WRI). (2022). Afectan al 84% de México la deforestación y degradación ambiental, revela encuesta. Recuperado de wri.org (World Resources Institute).
+
+## Versión Preliminar
+```
+El cambio climático está afectando gravemente la agricultura en México, con veranos más intensos y lluvias que llegan tarde. El aumento de las temperaturas altera los ciclos de los cultivos, acelerando su crecimiento y reduciendo la calidad de los frutos. La evaporación del agua también aumenta, complicando el riego. Además, la frecuencia y duración de las sequías están afectando cultivos básicos como el maíz y el frijol, reduciendo las cosechas y aumentando la inseguridad alimentaria.
+
+Por otro lado, el cambio climático también provoca lluvias torrenciales y huracanes más intensos, que causan inundaciones y destruyen campos enteros, dificultando la planificación agrícola. Agricultores como Don José en Oaxaca y Doña María en Chiapas han tenido que adaptar sus prácticas para enfrentar estos desafíos, implementando sistemas de riego más eficientes y protegiendo sus cultivos.
+
+Para enfrentar esta situación, es crucial apoyar a los agricultores locales, reducir nuestra huella de carbono y consumir de manera responsable. A pesar del desafío urgente que representa el cambio climático, es posible construir un futuro más resiliente y sostenible para la agricultura mexicana a través de acciones individuales y colectivas.
+```
+
+
+### Prompt utilizado
+```
+Escribe un artículo de opinión sobre cómo el cambio climático está afectando la agricultura en México. Incluye los siguientes puntos: aumento de las temperaturas, sequías, eventos climáticos extremos, historias y testimonios de agricultores utilizando nombres genéricos para el anónimato y además de acciones que nos ayudarán a tener un futuro sostenible para la agricultura. Hazlo en un tono formal para un sitio web de blogs sobre el cambio climático y que sea fácil de entender para algunos de nosotros que no entendemos tantos tecnisisimos del cambio climático.
+```
+
+
 <div align="center">
 <img src="https://images.pexels.com/photos/16567030/pexels-photo-16567030/free-photo-of-a-man-cutting-down-an-agave.jpeg" alt="Agricultor trabajando en el campo" width="800">
 </div>
