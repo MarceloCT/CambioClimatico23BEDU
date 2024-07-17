@@ -15,5 +15,5 @@ img[alt~="bottom-right"] {
 </style>
 
 
-![top-right](image.png)
-![bottom-right](image2.png)
+![top-right](image23.png)
+![bottom-right](image24.png)
