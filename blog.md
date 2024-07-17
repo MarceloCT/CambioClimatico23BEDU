@@ -10,7 +10,9 @@
 
 Referencias:
 > Secretaría de Agricultura y Desarrollo Rural. (2015). El cambio climático afecta al campo ¿cómo enfrentarlo?. Recuperado de gob.mx (Gob.mx).
+
 > Universidad Nacional Autónoma de México (UNAM). Cambio Climático en México. Recuperado de cambioclimatico.unam.mx (Cambio Climático en México).
+
 > Instituto de Recursos Mundiales (WRI). (2022). Afectan al 84% de México la deforestación y degradación ambiental, revela encuesta. Recuperado de wri.org (World Resources Institute).
 
 ## Versión Preliminar
