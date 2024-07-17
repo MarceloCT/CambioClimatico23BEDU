@@ -39,6 +39,7 @@ Hazlo en un tono formal para una revista digital de alto prestigio donde solo se
 
 ## CONTENIDO
 <img src="https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="image-description"/>
+
 # Vulnerabilidad y Adaptación de la Agricultura Mexicana ante el Cambio Climático: Un Análisis Multifactorial
 
 ## Resumen
